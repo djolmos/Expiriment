@@ -1,0 +1,37 @@
+.buttonClass{
+  border-radius: 20px;
+  padding: 20px;
+  margin: 5px;
+}
+
+.red{
+  background-color: FireBrick;
+}
+
+.orange{
+  background-color: orange;
+}
+
+.yellow{
+  background-color: yellow;
+}
+
+.green{
+  background-color: green;
+}
+
+.blue{
+  background-color: DeepSkyBlue;
+}
+
+.purple{
+  background-color: RebeccaPurple;
+}
+
+.grey{
+  background-color: grey;
+}
+
+.white{
+  background-color:white;
+}
